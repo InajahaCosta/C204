@@ -10,7 +10,7 @@ int fib(int n) {
 }
 int main() {
 
-  cout << fib(10) << endl;
+  cout << fib(10) << endl; //numero do fib desejado ex:10
 
   return 0;
 }
